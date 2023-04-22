@@ -1,11 +1,12 @@
 Project Name: Load Prediction
 
-This project aims to predict the server load based on historical data. The predicted load can be used to optimize the resources required to handle the traffic on the server.
+A data science project involving loan prediction, you will have to predict whether or not a loan will get approved. Before starting this project, it is important to understand that among all industries that use data science, the insurance domain makes use of analytics and methods of data science on a very large scale.
 
 Getting Started
 *Prerequisites
 
 This project requires the following packages to be installed:
+
 1)Python 3.6 or higher
 
 2)Pandas
